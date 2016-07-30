@@ -9,10 +9,20 @@
 
 # 4. Swift_04   write the String
 
+
+
+
 # 5. 02_Swift_01   write the Array
 
 # 6. 02_Swift_02   write the Set(集合)
 
 # 7. 02_Swift_03   write the Dictionary
 
-# 7. 02_Swift_03   write the Touble (元组)
+# 8. 02_Swift_04  write the Touble (元组)
+
+# 9. 02_Swift_05  write the operational (可选的)
+
+
+# 10. 03_Swift_01   write the func 函数
+
+# 11.03_Swift_02   write the 参数
