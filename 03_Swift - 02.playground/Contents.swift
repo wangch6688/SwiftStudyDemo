@@ -70,5 +70,25 @@ sum(1,2,3)
 sum(34,35,2,5,2)
 
 
+//4.IN-Out   此处引入inout,参数可变
+
+func swap(inout a : Int,inout b : Int){
+    
+    let temp = a
+    a = b
+    b = temp
+}
+
+var one = 1, two = 2
+
+//swap(&one, &two)
+
+//swap(one, b: two)
+//调用带inout的参数，需要添加&符号，类似指针的作用
+swap(&one, b: &two)
+
+print("\(one)")
+print("\(two)")
+
 
 
