@@ -31,3 +31,7 @@
 
 # 13.04_Swift_01   write the 闭包 （swift 中的 block）
 
+
+# 14.05_Swift_01   write the struct_class 结构体
+
+# 15.05_Swift_02   write the Property of struct_class  结构体的属性
